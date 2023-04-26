@@ -14,7 +14,6 @@
   "dependencies": {
     "caporal": "^1.4.0",
     "colors": "^1.1.2",
-    "inquirer": "^9.2.0",
     "prompt": "^1.0.0",
     "shelljs": "^0.8.5"
   }
