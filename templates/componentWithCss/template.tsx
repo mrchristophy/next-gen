@@ -1,4 +1,4 @@
-import style from "./[DASHNAME].module.scss";
+import style from "./[NAME].module.scss";
 
 const [NAME] = () => {
 
